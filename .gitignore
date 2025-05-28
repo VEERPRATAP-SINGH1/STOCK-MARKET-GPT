@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# macOS and VS Code
+.DS_Store
+.vscode/
